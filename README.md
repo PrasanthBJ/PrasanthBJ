@@ -18,7 +18,6 @@
 
 ### 🌐 Connect with Me
 
-<h3 align="left">📫 Connect with me</h3>
 
 <p align="left">
   <a href="mailto:prasanthbj65@gmail.com" target="_blank">
