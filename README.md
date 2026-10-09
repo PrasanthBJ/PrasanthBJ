@@ -1,70 +1,103 @@
-<!--
-**PrasanthBJ/PrasanthBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<h1 align="center">Hi 👋, I'm Prasanth</h1>
-<h3 align="center">A passionate Full Stack Developer from PDKT / TN / INDIA</h3>
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m currently learning **MERN Stack, Spring Boot**
-- 💬 Ask me about **Java, React, MongoDB, GitHub**
-- 📫 Reach me at: **prasanthbj@email.com**
-- ⚡ Fun fact: **I love building things people use daily**
-
----
-
-### 🌐 Connect with Me
-
-
-<p align="left">
-  <a href="mailto:prasanthbj65@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prasanth-bj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/your-number-here" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prasanth%20BJ&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20React%20%7C%20AI%20Builder&descAlignY=58&descSize=18" alt="banner"/>
 </p>
 
-
----
-
-### 🧰 Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/PrasanthBJ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+things+people+use+daily;Java+%7C+Spring+Boot+%7C+React;Exploring+RAG+and+AI+agents;Cracking+DSA+one+problem+at+a+time" alt="Typing SVG"/>
+  </a>
 </p>
-
----
-
-### 🧠 My LeetCode Stats
 
 <p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/Prasanth_BJ?theme=dark&font=Inter&ext=contest" 
-    alt="LeetCode Stats" 
-    width="550" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=PrasanthBJ&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/PrasanthBJ?style=flat-square&logo=github&color=24292e" alt="followers"/>
 </p>
 
 ---
 
-## 💻 My Gear Setup
+## 👨‍💻 About Me
 
-| 💻 Laptop              | 🧠 Processor     | 🎮 Graphics         | 🔋 RAM   |
-|------------------------|------------------|----------------------|----------|
-| Asus Tuf Gaming        | Ryzen 7 7735HS   | Nvidia RTX 4050      | 16GB     |
+```java
+public class Prasanth {
 
+    String role       = "Final-year B.Tech IT Student & Full Stack Developer";
+    String location   = "Tamil Nadu, India 🇮🇳";
+    String[] focus    = {"Java", "Spring Boot", "React", "RAG / AI Integration"};
+    String currently  = "Building AI-powered products & preparing for product-based companies";
+    String funFact    = "I love building things people use daily";
+
+    public String motto() {
+        return "Write code that solves real problems.";
+    }
+}
+```
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📄 **[DocuBot Pro](https://github.com/PrasanthBJ/DocuBot-Pro)** | Production RAG application: chat with your documents and get grounded answers | Java, Spring Boot, React, Vector DB |
+| 🧑‍💼 **[TaskBrain AI](https://github.com/PrasanthBJ/TaskBrain-AI)** | Employee allocation and monitoring platform | Spring Boot, React, MongoDB |
+| 🎓 **[CredX Recruiting Portal](https://github.com/PrasanthBJ/CredX)** | Campus recruiting portal built during the CredXHire 2.0 hackathon | React, Spring Boot |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrasanthBJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthBJ&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PrasanthBJ&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prasanth_BJ?theme=dark&font=Inter&ext=contest" alt="LeetCode Stats" width="550"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:prasanthbj65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prasanth-bj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/Prasanth_BJ">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" alt="footer"/>
+</p>
